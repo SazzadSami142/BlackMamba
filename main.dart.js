@@ -1,0 +1,1 @@
+// Simulated Flutter Web JavaScript Build - placeholder
